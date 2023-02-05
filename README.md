@@ -5,7 +5,7 @@
 
 <p style="text-align: center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notjawad404" alt="notjawad404" /></a> </p>
 
-<p style="text-align: center">- 🌱 I’m currently learning **Reactjs, Nodejs**</p>
+<p align="center">- 🌱 I’m currently learning **Reactjs, Nodejs**</p>
 
 <h3 style="text-align: center">Connect with me:</h3>
 <p style="text-align: center">
