@@ -8,7 +8,7 @@ I am a front end developer & a ML & Data Science enthusiast.<br>I am working in 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notjawad404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notjawad404&show_icons=true&locale=en" alt="notjawad404" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notjawad404&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notjawad404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
