@@ -10,7 +10,8 @@ I am a front end developer & a ML & Data Science enthusiast.<br>I am working in 
 # 📊 GitHub Stats:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notjawad404&show_icons=true&locale=en" alt="notjawad404" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notjawad404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notjawad404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notjawad404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+![]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=notjawad404&theme=discord&no-frame=false&no-bg=true&margin-w=4)
