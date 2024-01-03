@@ -15,19 +15,22 @@ I am a Front-End developer & ML and Data Science enthusiast.<br>I work in ReactJ
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 # 📊 GitHub Stats:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=notjawad404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="notjawad404" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=notjawad404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="notjawad404" />-->
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notjawad404&show_icons=true&locale=en&layout=compact" alt="notjawad404" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notjawad404&show_icons=true&locale=en" alt="notjawad404" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notjawad404" alt="notjawad404" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=notjawad404&show_icons=true&locale=en&theme=tokyonight" alt="notjawad404" width="48%">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notjawad404&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </div>
 
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=notjawad404" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=notjawad404&theme=discord" alt="trophy">
   </a>
 </p>
 
@@ -51,3 +54,5 @@ I am a Front-End developer & ML and Data Science enthusiast.<br>I work in ReactJ
 [![](https://visitcount.itsvg.in/api?id=notjawad404&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  
