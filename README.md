@@ -36,7 +36,7 @@ I am a Front-End developer & ML and Data Science enthusiast.<br>I work in ReactJ
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=notjawad404&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=notjawad404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </p>
 
 ### ✍️ Random Dev Quote
