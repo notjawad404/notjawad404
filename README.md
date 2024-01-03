@@ -23,7 +23,7 @@ I am a Front-End developer & ML and Data Science enthusiast.<br>I work in ReactJ
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notjawad404&show_icons=true&locale=en&theme=tokyonight" alt="notjawad404" width="48%">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notjawad404&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=notjawad404&theme=tokyonight-duo" alt="GitHub Streak" width="48% />
 </div>
 
 
