@@ -118,14 +118,6 @@ Currently deepening expertise in **AWS cloud architecture** and integrating **AI
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notjawad404&theme=tokyo-night&hide_border=true&area=true&days=365" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -137,11 +129,13 @@ Currently deepening expertise in **AWS cloud architecture** and integrating **AI
 </p>
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=notjawad404&style=for-the-badge&color=6E57F7" />
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=notjawad404&style=for-the-badge&color=6E57F7" />
-</div>
+
