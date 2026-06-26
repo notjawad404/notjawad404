@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://instagram.com/notjawad404"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+  <!-- <a href="https://instagram.com/notjawad404"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a> -->
   <a href="https://linkedin.com/in/notjawad404"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://x.com/notjawad404"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://youtube.com/@notJawad404-r4x"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
+  <!-- <a href="https://youtube.com/@notJawad404-r4x"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a> -->
   <a href="mailto:jawadali000123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </div>
 
