@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jawad%20Ali&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Cloud&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jawad%20Ali&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=650&lines=Full-Stack+JavaScript+Developer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+scalable+web+%26+mobile+apps+%F0%9F%93%B1;Exploring+AWS+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+%7C+Node.js+%7C+Firebase;Building+scalable+full+stack+web+apps+%F0%9F%93%B1;Exploring+AWS+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%AB" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@ Currently deepening expertise in **AWS cloud architecture** and integrating **AI
   </tr>
   <tr>
     <td>📱 <b>Building</b></td>
-    <td>Cross-platform mobile apps with Flutter</td>
+    <td>Full Stack Web Applications</td>
   </tr>
   <tr>
     <td>🤖 <b>Exploring</b></td>
@@ -49,7 +49,7 @@ Currently deepening expertise in **AWS cloud architecture** and integrating **AI
   </tr>
   <tr>
     <td>💬 <b>Ask me about</b></td>
-    <td>React, Node.js, MongoDB, Firebase, or Next.js</td>
+    <td>React, Node.js, MongoDB, Firebase</td>
   </tr>
 </table>
 
